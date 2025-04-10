@@ -14,3 +14,4 @@ terraform apply
 # Open http://localhost:8080
 terraform destroy
 ```
+<img width="1440" alt="Screenshot 2025-04-10 at 3 26 54 PM" src="https://github.com/user-attachments/assets/6541c614-d00e-4899-9600-9f1709d25264" />
